@@ -1,1 +1,67 @@
-![Metrics](https://metrics.lecoq.io/jesusmeme?template=classic&repositories.batch=300&repositories.forks=true&languages=1&habits=1&topics=1&lines=1&people=1&repositories=1&achievements=1&activity=1&traffic=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=300&repositories.forks=true&repositories.affiliations=owner&languages=false&languages.limit=20&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&topics=false&topics.mode=starred&topics.sort=stars&topics.limit=15&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&traffic=false&config.timezone=America%2FNew_York)
+## Blockchain Engineer | DApps, DeFi, Meme Coins, Solana, Ethereum, BSC
+
+I am a seasoned blockchain developer with over 8 years of experience, specializing in decentralized applications (DApps), DeFi solutions, NFT ecosystems, and meme coin development. My expertise spans leading blockchain platforms such as Ethereum, Solana, and Cosmos, with a deep understanding of Web3 technologies. I deliver innovative, reliable, and secure solutions tailored to client needs, earning consistent praise for creativity and dependability.
+
+---
+
+## Skill Set
+
+- Blockchain Development
+- Solidity
+- Solana
+- Ethereum
+- Rust
+- Web3
+- NFTs
+- Marketplaces
+- Meme Coins
+- DeFi
+- Decentralized Exchanges (DEXs)
+- Cross-Chain Bridges
+- DApps
+- React
+- Node.js
+
+---
+
+## Professional Overview
+
+With a robust background in blockchain engineering, I have spent the past 6 years designing and deploying advanced solutions across a wide range of decentralized technologies. My work includes DeFi platforms, decentralized exchanges (DEXs), cross-chain bridges, NFT marketplaces, and bespoke DApps. I have successfully contributed to the development and launch of diverse projects, such as online trading platforms, meme coins, staking systems, blockchain connectors, and interactive gaming experiences.
+
+### Key Achievements
+- Conceptualized and delivered innovative blockchain projects, including marketplaces, token ecosystems, and metaverse integrations.
+- Consistently recognized by clients for producing high-quality, dependable, and creative solutions.
+- Proficient in integrating Web3 wallets, auditing smart contracts, and developing custom bots to enhance project functionality.
+
+---
+
+## My Skill Set
+
+### Web3 Wallet Integration
+- Support for MetaMask, Trust Wallet, Uniswap, Xverse, Hashpack, Xumm, Gem Wallet, Keplr, Leap Wallet, Cosmostation Wallet, Station Wallet, Crossmark Wallet, and more.
+
+### NFT Solutions
+- NFT minting websites, staking platforms, raffles, launchpads, marketplaces, Bitcoin Ordinals integration, presale/public minting, IPFS storage, dashboards, and Opensea functionality.
+
+### DeFi & DApp Development
+- Token creation (including meme coins), ICOs, IDOs, presales, coin listings, staking platforms, launchpads, swaps, cross-chain bridges, DEXs, CEXs, AMMs, and integrations with PancakeSwap and Uniswap.
+
+### Web3 Gaming Platforms
+- Play-to-Earn (P2E) games, Coinflip mechanics, and expansive metaverse environments.
+
+### Smart Contract Auditing
+- Detailed source code audits, issue resolution, and verification on block explorers.
+
+### Bot Development
+- Custom bots for volume traffic, holder creation, trending on Dexscreener/Dextools, and new token notifications.
+
+### Supported Networks
+- Bitcoin (Ordinals, Runes), EVM, BSC, Solana, Cosmos, XRPL, Cardano, Fantom, Polygon, zkSync, Hedera, Aptos, Injective, and more.
+
+---
+
+## Technologies & Languages
+
+- **Programming Languages**: Solidity, Rust, JavaScript, TypeScript
+- **Frameworks & Tools**: Web3.js, Node.js, React, Hardhat
+- **Blockchain Platforms**: Ethereum, Solana, Cosmos, BSC, and beyond
