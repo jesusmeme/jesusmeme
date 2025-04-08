@@ -35,31 +35,6 @@ With a robust background in blockchain engineering, I have spent the past 6 year
 
 ---
 
-## My Skill Set
-
-### Web3 Wallet Integration
-- Support for MetaMask, Trust Wallet, Uniswap, Xverse, Hashpack, Xumm, Gem Wallet, Keplr, Leap Wallet, Cosmostation Wallet, Station Wallet, Crossmark Wallet, and more.
-
-### NFT Solutions
-- NFT minting websites, staking platforms, raffles, launchpads, marketplaces, Bitcoin Ordinals integration, presale/public minting, IPFS storage, dashboards, and Opensea functionality.
-
-### DeFi & DApp Development
-- Token creation (including meme coins), ICOs, IDOs, presales, coin listings, staking platforms, launchpads, swaps, cross-chain bridges, DEXs, CEXs, AMMs, and integrations with PancakeSwap and Uniswap.
-
-### Web3 Gaming Platforms
-- Play-to-Earn (P2E) games, Coinflip mechanics, and expansive metaverse environments.
-
-### Smart Contract Auditing
-- Detailed source code audits, issue resolution, and verification on block explorers.
-
-### Bot Development
-- Custom bots for volume traffic, holder creation, trending on Dexscreener/Dextools, and new token notifications.
-
-### Supported Networks
-- Bitcoin (Ordinals, Runes), EVM, BSC, Solana, Cosmos, XRPL, Cardano, Fantom, Polygon, zkSync, Hedera, Aptos, Injective, and more.
-
----
-
 ## Technologies & Languages
 
 - **Programming Languages**: Solidity, Rust, JavaScript, TypeScript
